@@ -1,0 +1,35 @@
+body {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+}
+body > section {
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+video {
+	margin: 1em;
+	box-shadow: 0 0 1em black;
+}
+
+#myCanvas {
+	margin: 1em;
+	width: 640px;
+	justify-self: center;
+	box-shadow: 0 0 1em black;
+	background-color: white;
+}
+
+canvas {
+	background-color: white;
+	display: inline-flex;
+	margin-right: -5px;
+	margin-bottom: -5px;
+}
+
+.control {
+	cursor: grab;
+}
