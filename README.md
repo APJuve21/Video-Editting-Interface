@@ -1,2 +1,2 @@
-# Video-Editting-Interface
-Video editing dynamic display and filtering tools using frame and image manipulation
+# Video-Editor-Interface
+Video editor web display with filter tools using frame and image manipulation
